@@ -1,0 +1,6 @@
+C:\Users\Sofia\Downloads\1er cuatrimestre 2020\Complejidad temporal\repo\TP2\bin\Debug\TP2.exe.config
+C:\Users\Sofia\Downloads\1er cuatrimestre 2020\Complejidad temporal\repo\TP2\bin\Debug\TP2.exe
+C:\Users\Sofia\Downloads\1er cuatrimestre 2020\Complejidad temporal\repo\TP2\bin\Debug\TP2.pdb
+C:\Users\Sofia\Downloads\1er cuatrimestre 2020\Complejidad temporal\repo\TP2\obj\Debug\TP2.csprojAssemblyReference.cache
+C:\Users\Sofia\Downloads\1er cuatrimestre 2020\Complejidad temporal\repo\TP2\obj\Debug\TP2.exe
+C:\Users\Sofia\Downloads\1er cuatrimestre 2020\Complejidad temporal\repo\TP2\obj\Debug\TP2.pdb
