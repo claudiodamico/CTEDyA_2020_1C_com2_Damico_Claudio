@@ -33,6 +33,14 @@ namespace juegoIA
 			//implementar
 			
 		}
+
+		public class jugada
+        {
+			int carta;
+			int limiteActual;
+			int ganadas;
+			bool esAI;
+        }
 		
 	}
 }
