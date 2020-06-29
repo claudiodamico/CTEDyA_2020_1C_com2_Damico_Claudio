@@ -7,11 +7,11 @@ namespace juegoIA
 {
 	public class ComputerPlayer: Jugador
 	{ 
-		private ArbolGeneral<DataJugada> arbol;
-
 		private List<int> naipes = new List<int>();
-	
-		
+
+		private ArbolGeneral<jugada> arbol;
+
+
 		public ComputerPlayer()
 		{
 		}
