@@ -39,15 +39,15 @@ namespace juegoIA
 			int carta;
 			int limiteActual;
 			int ganadas;
-			bool esAI;
+			bool miAI;
 
 		   //constructor de la clase jugada
-		   public jugada(int carta, int limiteActual, int ganadas, bool esAI)
+		   public jugada(int carta, int limiteActual, int ganadas, bool miAI)
             {
 				this.carta = carta;
 				this.limiteActual = limiteActual;
 				this.ganadas = ganadas;
-				this.esAI = esAI;
+				this.miAI = miAI;
             }
 			//get y set
 			public int Carta
@@ -66,9 +66,9 @@ namespace juegoIA
                 set { this.ganadas = value; }
             }
 
-			public bool EsAI
+			public bool MiAI
             {
-                get { return esAI; }
+                get { return miAI; }
             }
         }
 		
