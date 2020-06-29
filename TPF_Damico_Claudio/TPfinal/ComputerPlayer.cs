@@ -49,6 +49,27 @@ namespace juegoIA
 				this.ganadas = ganadas;
 				this.esAI = esAI;
             }
+			//get y set
+			public int Carta
+            {
+                get { return this.carta; }
+            }
+
+			public int LimiteActual
+            {
+                get { return this.limiteActual; }
+            }
+
+			public int Ganadas
+            {
+                get { return ganadas; }
+                set { this.ganadas = value; }
+            }
+
+			public bool EsAI
+            {
+                get { return esAI; }
+            }
         }
 		
 	}
