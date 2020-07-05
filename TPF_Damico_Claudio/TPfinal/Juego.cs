@@ -9,7 +9,7 @@ namespace juegoIA
 		{
 				Game game = new Game();
 				game.play();
-			    Console.ReadKey(true);
+			    Console.ReadKey();
 		}
 	}
 }
